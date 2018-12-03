@@ -10,7 +10,7 @@
 [palette-picker](https://github.com/alexanderela/palette-picker)
 
 #### Link to the Deployed Application
-[heroku](https://git.heroku.com/palette-picker-alexanderela.git)
+[heroku](https://palette-picker-alexanderela.herokuapp.com/)
 
 #### Link to your annotated server file
 [annotated server file]()
